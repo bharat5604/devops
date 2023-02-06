@@ -5,7 +5,7 @@ on:
    types: [opened]
 
   jobs:
-    comments-with-action:
+    comment-with-action:
      runs-on: ubuntu-latest
      steps:
       - name: "dump github context"
