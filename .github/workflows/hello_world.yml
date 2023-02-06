@@ -1,0 +1,15 @@
+hello:
+   runs-on:ubuntu-latest
+   steps:
+     - uses: actions/checkout@v2
+     - name: hello world
+       run: echo "hello world"
+       shell: bash
+
+  jobs:
+    goodbye:
+     runs-on:ubuntu-latest
+     steps:
+       - name: goodbye world
+         run: echo "goodbye world"
+         shell: bash
