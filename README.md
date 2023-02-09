@@ -14,7 +14,7 @@ The repository contains the following sample workflows:
 
 - **Hello World**: A simple workflow that runs when you push changes to your repository and prints "Hello, World!"
 - **Build and Test**: A workflow that builds and tests a Java project using Maven.
-- **Deploy to AWS**: A workflow that deploys a Docker image to AWS Elastic Beanstalk.
+<!-- - **Deploy to AWS**: A workflow that deploys a Docker image to AWS Elastic Beanstalk. -->
 
 ## Getting Started
 
