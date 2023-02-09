@@ -10,15 +10,15 @@ This repository contains sample GitHub Actions workflows to help you learn how t
 
 ## Contents
 
--The repository contains the following sample workflows:
+The repository contains the following sample workflows:
 
 - **Hello World**: A simple workflow that runs when you push changes to your repository and prints "Hello, World!"
 - **Build and Test**: A workflow that builds and tests a Java project using Maven.
 - **Deploy to AWS**: A workflow that deploys a Docker image to AWS Elastic Beanstalk.
 
-  # Getting Started
+## Getting Started
 
-  To get started with the sample workflows, follow these steps:
+To get started with the sample workflows, follow these steps:
 
 1. Fork this repository to your GitHub account.
 2. Go to the Actions tab in your forked repository.
@@ -27,7 +27,7 @@ This repository contains sample GitHub Actions workflows to help you learn how t
 5. Commit the changes to the repository and push to GitHub.
 6. Observe the workflow run in the Actions tab.
 
-# Resources
+## Resources
 
 [GitHub Actions Documentation](https://docs.github.com/en/actions)
 
@@ -35,10 +35,10 @@ This repository contains sample GitHub Actions workflows to help you learn how t
 
 [Maven Documentation](https://maven.apache.org/guides/index.html)
 
-# Contributing
+## Contributing
 
 We welcome contributions to this repository. If you have a sample workflow that you would like to add, please open a pull request.
 
-# License
+## License
 
 This project is licensed under the MIT License. See the **LICENSE** file for details.
